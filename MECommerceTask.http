@@ -1,0 +1,6 @@
+@MECommerceTask_HostAddress = http://localhost:5033
+
+GET {{MECommerceTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
