@@ -1,3 +1,7 @@
+Please refer this link below if you want to see the details implementatios with Images.
+-----------------------------------------------------------------------------------------------
+https://docs.google.com/document/d/1RwokjDKxiEEeX40CcIIYCJliU5Vt2UezWQZLOv-83xw/edit?usp=sharing
+-------------------------------------------------------------------------------------------------
 # MECommerceTask
 Task for Monk Commerce
 Readme File
